@@ -5,6 +5,8 @@
 
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidFranciscoDSA&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFranciscoDSA&hide_progress=true)
+
 ###                      🪓📚 My Skills ⚒️ ⚔️
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
