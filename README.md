@@ -43,6 +43,11 @@
 
 ##### dafraDSA@gmail.com
 
+# Certificações
+
+[![image](https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/489a2526-f099-4704-bf86-d4917bbff27f)]()
+
+
 
 
 
