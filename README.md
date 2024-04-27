@@ -55,34 +55,6 @@
     </a>
 </div>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    .image-container {
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .image-container img {
-        width: 300px; /* Defina o tamanho desejado aqui */
-        height: auto; /* Para manter a proporção da imagem */
-    }
-</style>
-</head>
-<body>
-
-<div class="image-container">
-    <a href="https://www.credly.com/badges/50d9c28e-b4bc-4fee-bec9-b7ce64918dfa/linked_in">
-        <img src="https://example.com/sua-imagem1.jpg" alt="Imagem 1">
-    </a>
-    <a href="https://www.credly.com/badges/845a1dd6-0d46-45ee-91b7-a3130060a626/linked_in_profile">
-        <img src="https://example.com/sua-imagem2.jpg" alt="Imagem 2">
-    </a>
-</div>
-
-</body>
-</html>
 
 
 
