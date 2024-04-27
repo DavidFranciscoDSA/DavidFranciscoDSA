@@ -48,6 +48,16 @@
 [![image](https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/489a2526-f099-4704-bf86-d4917bbff27f)](https://www.credly.com/badges/50d9c28e-b4bc-4fee-bec9-b7ce64918dfa/linked_in)
 [![image](https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/ad4824f7-a132-482e-8ae6-c38e5adf9b2c)](https://www.credly.com/badges/845a1dd6-0d46-45ee-91b7-a3130060a626/linked_in_profile)
 
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://www.credly.com/badges/50d9c28e-b4bc-4fee-bec9-b7ce64918dfa/linked_in" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/489a2526-f099-4704-bf86-d4917bbff27f" style="width: 200px; height: 200px;">
+    </a>
+    <a href="https://www.credly.com/badges/845a1dd6-0d46-45ee-91b7-a3130060a626/linked_in_profile" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/ad4824f7-a132-482e-8ae6-c38e5adf9b2c" style="width: 200px; height: 200px;">
+    </a>
+</div>
+
+
 
 
 
