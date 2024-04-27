@@ -70,16 +70,22 @@
 </div>
 
 <div style="display: flex; justify-content: space-around;">
-    <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/76653/840ad2fcf024b8b0f51d5e8fe7e3e70e/certificado.png" target="_blank">
-        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/f124c2d5-3c0e-4d98-bdf4-9f3c58854e88" style="width: 278px; height: 200px;">
+    <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/73053/1ff1de494e0687afb89ccf3654e24171/certificado.png" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/6565acde-8303-4b1c-8922-91896fbc1cce" style="width: 278px; height: 200px;">
     </a>
-    <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/63876/90347f59f7e3e9a561cc6b4aa04f92e1/certificado.png" target="_blank">
-        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/2d522214-7e4a-4481-86c8-b79b0312b6d2" style="width: 278px; height: 200px;">
+    <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/67787/463809c25f9ce5454b9ea73fcee9e637/certificado.png" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/11b3b680-e6ad-4032-b7c4-10d71b4a9365" style="width: 278px; height: 200px;">
     </a>
-    <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/74450/e8b65e92256be2537b698df739233eb9/certificado.png" target="_blank">
-        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/8eb39207-0ea8-427a-813d-0f547b1a742c" style="width: 278px; height: 200px;">
+    <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/63694/fb3b4490fd725428d2bc85dcf7f2a2df/certificado.png" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/31996f93-56cf-4b2f-8e41-433c8b3d1f52" style="width: 278px; height: 200px;">
     </a>
 </div>
+
+
+
+
+
+
 
 
 
