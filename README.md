@@ -45,7 +45,9 @@
 
 # Certificações
 
-[![image](https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/489a2526-f099-4704-bf86-d4917bbff27f)]()
+![image](https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/489a2526-f099-4704-bf86-d4917bbff27f)()
+![image](https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/ad4824f7-a132-482e-8ae6-c38e5adf9b2c)(https://www.credly.com/badges/845a1dd6-0d46-45ee-91b7-a3130060a626/linked_in_profile)
+
 
 
 
