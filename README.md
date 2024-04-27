@@ -81,6 +81,24 @@
     </a>
 </div>
 
+# Cursos UDEMY
+
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://www.udemy.com/certificate/UC-e1921476-bf20-4309-a39d-debbb1310bda/" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/4fa10b33-9dc1-4f99-8906-a50806c243b9" style="width: 278px; height: 200px;">
+    </a>
+    <a href="https://www.udemy.com/certificate/UC-2c1872fe-92d8-44a4-b810-5e25851c71d1/" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/51482968-f698-4f52-92cb-1df7f5a912d4" style="width: 278px; height: 200px;">
+    </a>
+    <a href="https://www.udemy.com/certificate/UC-d3b7dda1-32f7-44b1-af73-31284e2d299c/" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/62d394f9-8264-4d11-9226-9c8c7be500d9" style="width: 278px; height: 200px;">
+    </a>
+</div>
+
+
+
+
+
 
 
 
