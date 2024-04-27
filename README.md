@@ -62,7 +62,10 @@
         <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/f124c2d5-3c0e-4d98-bdf4-9f3c58854e88" style="width: 300px; height: 200px;">
     </a>
     <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/63876/90347f59f7e3e9a561cc6b4aa04f92e1/certificado.png" target="_blank">
-        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/2d522214-7e4a-4481-86c8-b79b0312b6d2" style="width: 200px; height: 200px;">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/2d522214-7e4a-4481-86c8-b79b0312b6d2" style="width: 300px; height: 200px;">
+    </a>
+    <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/63876/90347f59f7e3e9a561cc6b4aa04f92e1/certificado.png" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/2d522214-7e4a-4481-86c8-b79b0312b6d2" style="width: 300px; height: 200px;">
     </a>
 </div>
 
