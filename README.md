@@ -58,6 +58,36 @@
     </a>
 </div>
 
+# Cursos DSA - Data Science Academy
+
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://mycourse.app/u5prNVeMenAMpJhK7" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/6de591c9-44f0-4e66-a5ef-5ca49426599c" style="width: 278px; height: 200px;">
+    </a>
+    <a href="https://mycourse.app/PGPgM53ZZYewktrf7" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/e68468c7-33e5-4cd3-a15e-9401f3f560ac" style="width: 278px; height: 200px;">
+    </a>
+    <a href="https://mycourse.app/KArZDnafXWgQ8Ymj8" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/3c31d00b-ae3b-4716-8198-f5e2c85a99ca" style="width: 278px; height: 200px;">
+    </a>    
+</div>
+
+
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://mycourse.app/s9YoGmyT5wUpCPrU9" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/07629445-003e-4718-b933-d79aad54ac49" style="width: 278px; height: 200px;">
+    </a>
+    <a href="https://mycourse.app/PGPgM53ZZYewktrf7" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/e68468c7-33e5-4cd3-a15e-9401f3f560ac" style="width: 278px; height: 200px;">
+    </a>
+    <a href="https://mycourse.app/wmbt2UNXd68m72X59" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/d9402865-8d4f-4d4b-bc40-8424f02bc4a4" style="width: 278px; height: 200px;">
+    </a>
+</div>
+
+![image](https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/6de591c9-44f0-4e66-a5ef-5ca49426599c)
+
+
 # Cursos FIAP
 
 <div style="display: flex; justify-content: space-around;">
