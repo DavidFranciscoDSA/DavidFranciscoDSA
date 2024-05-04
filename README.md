@@ -128,6 +128,14 @@
     </a>
 </div>
 
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://www.udemy.com/certificate/UC-5c4d2df0-6ed5-46a2-9012-ed65e63d93df/" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/ea7588de-694d-4110-9a0b-abf20537227b" style="width: 278px; height: 200px;">
+    </a>
+
+</div>
+
+
 
 
 
