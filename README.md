@@ -135,8 +135,8 @@
     <a href="https://www.udemy.com/certificate/UC-a37c23e8-fa24-4ef7-b4d6-b37223907676/" target="_blank">
         <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/d81574fd-3703-49a5-a3e2-a9893b49a18c" style="width: 278px; height: 200px;">
     </a>
-    <a href="https://www.udemy.com/certificate/UC-e1921476-bf20-4309-a39d-debbb1310bda/" target="_blank">
-        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/4c2c7f02-3c65-4260-a5cd-53484a2e92e4" style="width: 278px; height: 200px;">
+    <a href="https://www.udemy.com/certificate/UC-04cca8d2-0b3f-4591-b4bc-11b17f44bea4/" target="_blank">
+        <img src="https://github.com/DavidFranciscoDSA/DavidFranciscoDSA/assets/167797737/9e57a0c3-9094-4a41-821b-0ee12c8f14c8" style="width: 278px; height: 200px;">
     </a>
 </div>
 
